@@ -33,7 +33,7 @@
 ```json
 [
   {
-    "domain": "example.com",
+    "domain": "digitalhubb.com",
     "registrar": "Cloudflare",
     "registrar_link": "https://dash.cloudflare.com",
     "registrar_date": "2023-01-01",
@@ -42,7 +42,7 @@
     "memo": "主站"
   },
   {
-    "domain": "example.org",
+    "domain": "dogitalhubb.org",
     "registrar": "Namecheap",
     "registrar_link": "https://www.namecheap.com",
     "registrar_date": "2023-02-15",
